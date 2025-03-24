@@ -14,10 +14,10 @@ The file “Chinese directors data.dta” contains personal characteristics of m
 
 Sources of datasets:
 Data files                                                                   Source
-intetnational female sample data.dta                     Datastream
-Chinese female sample data.dta                             CSMAR, SNSI, Bloomberg, CNRDS
-intetnational female characteristics data.dta          BoardEx, CSMAR
-Chinese directors data.dta                                      CSMAR
+intetnational female sample data.dta                                         Datastream
+Chinese female sample data.dta                                               CSMAR, SNSI, Bloomberg, CNRDS
+intetnational female characteristics data.dta                                BoardEx, CSMAR
+Chinese directors data.dta                                                   CSMAR
 
 Description of programs:
 The programs in main_results.do create all the output required for tables in the text, except for Table1.
@@ -43,11 +43,11 @@ Table8                                 		main_results.do                        
 Table9                                 		main_results.do                          	102
 Table10                                		main_results.do                          	192
 Table11                                		main_results.do                          	220
-Endogeneity Concern Table1            	supplementary_materials.do               	2
-Endogeneity Concern Table2             	supplementary_materials.do               	18
+Endogeneity Concern Table1            	        supplementary_materials.do               	2
+Endogeneity Concern Table2             	        supplementary_materials.do               	18
 Table S2                               		supplementary_materials.do               	123
 Table S3                               		supplementary_materials.do               	145
 Table S4                               		supplementary_materials.do               	161
 Table S5                               		supplementary_materials.do               	173
-Fig S1                                 		fig_s1.py                                		31
-Fig S2                                 		fig_s2.py                                		23
+Fig S1                                 		fig_s1.py                                       31
+Fig S2                                 		fig_s2.py                                	23
